@@ -16,7 +16,6 @@ Seu público-alvo é principalmente composto por pessoas interessadas em jogos d
 + Compra e download de jogos digitais
 + Gerenciamento da biblioteca de jogos
 + Instalação, atualização e desinstalação de jogos
-+ Jogos e partidas online
 + Adição e gerenciamento de amigos
 + Chat e comunicação entre usuários
 + Sistema de conquistas
